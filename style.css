@@ -1,0 +1,42 @@
+body {
+    background-image:url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+}
+.head{
+    background-color: whitesmoke;
+}
+.team
+{
+    height: 200px;
+    width: 40%;
+    padding: 20px;
+    margin-right: 20px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+
+button {
+    height: 100px;
+    width: 300px;
+    font-size: 40px;
+    
+    margin-top: 50px;
+    background:linear-gradient(60deg, yellow,blue);
+    color:whitesmoke;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.winner {
+    background-color: lime;
+    color: black;
+}
